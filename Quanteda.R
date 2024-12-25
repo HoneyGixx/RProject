@@ -1,0 +1,5 @@
+require(quanteda)
+require(readtext)
+require(dplyr)
+library(tm)
+texts(D:/Учеба/R/lemmas/*.txt)
